@@ -2,13 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mawenying.github.com
+title: 文武人生
+subtitle: 感悟,技术,分享
+author: 马文英
 simple_search: https://www.google.com/search
-description:
-
+description: 一点感悟,感悟人生
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
